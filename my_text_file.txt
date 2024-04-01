@@ -1,1 +1,3 @@
-hehehhehehheheh
+#!/bin/bash
+
+echo "hehehhehe, I'm a script!!!!!"
